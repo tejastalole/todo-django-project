@@ -69,8 +69,6 @@ todo_project/
 │   ├── views.py
 │   ├── models.py
 │   └── urls.py
-│  
-│
 ├── db.sqlite3
 ├── manage.py
 └── README.md
@@ -99,7 +97,7 @@ todo_project/
 ### 👨‍💻 **Author**
 
 **Tejas Talole**
-📧 [Your Email or Portfolio Link]
-💼 [LinkedIn / GitHub Profile Link]
+📧 tejastalole7@gmail.com
+💼 https://www.linkedin.com/in/tejas-talole
 
 ---
