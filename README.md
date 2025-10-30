@@ -27,15 +27,15 @@ This project allows users to **Sign Up, Login**, and **manage daily tasks** with
 
 #### 🔹 Login Page
 
-![Login Page](login%20output.png)
+![Login_Page](login.png)
 
 #### 🔹 Signup Page
 
-![Signup Page](signup%20output.png)
+![Signup Page](signup.png)
 
 #### 🔹 Todo Dashboard
 
-![Todo Page](todo%20output.png)
+![Todo Page](todo.png)
 
 ---
 
